@@ -1,0 +1,41 @@
+.boton {
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.boton-menos {
+    font-size: 40px;
+    background-color: red;
+    color: white;
+    font-weight: 800;
+    border: solid red 2px;
+}
+.boton-menos:hover{
+    background-color: rgb(255, 72, 0);
+}
+.boton-reset {
+    font-size: 40px;
+    background-color: blue;
+    color: white;
+    font-weight: 800;
+    border: solid blue 2px;
+    
+}
+
+.boton-reset:hover {
+    background-color: royalblue;
+}
+.boton-mas {
+    font-size: 40px;
+    background-color: green;
+    color: white;
+    font-weight: 800;
+    border: solid green 2px;
+}
+.boton-mas:hover {
+    background-color: rgb(8, 194, 8);
+}
+.boton:hover {
+    cursor: pointer;
+}
